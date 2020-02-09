@@ -1,0 +1,13 @@
+.chips {
+    padding: 10px 20px;
+    margin: 20px 10px;
+    border-radius: 12px;
+    background: rgba(0,0,0,.4);
+    color: #fff;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    right: 10px;
+    top: 100px;
+    transition: ease-in-out 1s;
+}
